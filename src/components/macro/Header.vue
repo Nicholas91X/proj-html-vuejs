@@ -127,6 +127,14 @@ export default {
             li {
                 text-transform: uppercase;
                 margin: 0 .75rem;
+                button {
+                    text-transform: uppercase;
+                    padding: 0.4rem 0.8rem;
+                    color: white;
+                    background-color: $elm;
+                    border-radius: 5px;
+                    box-shadow: none;
+                }
             }
         }
 }
