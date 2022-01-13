@@ -26,6 +26,7 @@ export default {
 
 <style lang="scss" scoped>
 @import '../../assets/variables.scss';
+
     #card-services {
         width: calc(100% / 3 - 60px);
         margin: 10px;

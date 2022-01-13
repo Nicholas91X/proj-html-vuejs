@@ -50,6 +50,7 @@ export default {
 
 <style lang="scss" scoped>
 @import '../../assets/variables.scss';
+
 section {
     background-color: black;
     .container {

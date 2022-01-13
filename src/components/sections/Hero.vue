@@ -19,6 +19,7 @@ export default {
 
 <style lang="scss" scoped>
 @import '../../assets/variables.scss';
+
     section {
         height: 550px;
         background-image: url(../../assets/img/bg-parallax.png);
