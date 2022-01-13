@@ -82,7 +82,7 @@ export default {
             #name, 
             #e-mail,
             #phone {
-                width: 240px;
+                width: 185px;
                 margin-bottom: 15px;
                 margin-right: 10px;
                 padding: 10px;
@@ -90,7 +90,7 @@ export default {
                 border: none;
               }
             #more-info {
-                width: 260px;
+                width: 205px;
                 margin-bottom: 15px;
                 margin-right: 10px;
                 padding: 8px;
@@ -98,7 +98,7 @@ export default {
                 border: none;
               }
             #message {
-                width: 510px;
+                width: 400px;
                 height: 100px;
                 background-color: lightgrey;
                 border: none;
